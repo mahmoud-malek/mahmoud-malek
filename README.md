@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | AI Trainer | Full Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=470&lines=Building+AI+and+Full-Stack+Solutions;Python+%7C+Flask+%7C+React+%7C+Node.js;Passionate+about+problem+solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=470&lines=Building+AI+and+Full-Stack+Solutions;Python+%7C+Flask+%7C+React+%7C+Node.js;Passionate+about+problem+solving" alt="Typing SVG" />
 </p>
 
 <p align="center">
