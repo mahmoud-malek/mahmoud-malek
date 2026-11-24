@@ -26,7 +26,7 @@ I'm a passionate software developer with a strong background in full-stack engin
 ## 🧑‍💻 Professional Experience
 
 **AI Trainer @ Outlier (Remote)**  
-*2024 – Present*  
+*2024 – 2026*  
 - Train and evaluate cutting-edge AI models for code generation, debugging, and problem-solving (Python, JavaScript, C++).
 - Develop advanced multilingual AI systems, improving model performance in Arabic, English, and more.
 - Create high-quality datasets for better model reasoning and context.
